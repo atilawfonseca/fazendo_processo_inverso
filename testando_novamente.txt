@@ -1,0 +1,1 @@
+fazendo o processo inverso, criando o projeto na maquina local e subindo pro github. 
